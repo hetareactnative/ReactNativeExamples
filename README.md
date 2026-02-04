@@ -1,6 +1,15 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
+## 🛠 Required Development Tools
+
+### Android Studio
+
+This project is tested and verified with the following version:
+
+Android Studio Ladybug Feature Drop | 2024.2.2 Patch 1  
+Build #AI-242.23726.103.2422.13016713  
+Built on February 6, 2025  
 
 > **Note**: Make sure you have completed the [Set Up Your Environment](https://reactnative.dev/docs/set-up-your-environment) guide before proceeding.
 
